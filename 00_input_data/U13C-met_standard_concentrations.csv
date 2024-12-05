@@ -1,0 +1,8 @@
+﻿matrix;metabolite;concentration_m
+Cells;hcys;9.00E-09
+Cells;met;3.60E-07
+Cells;cyst;9.00E-08
+Cells;sam;9.00E-09
+Cells;sah;9.00E-09
+Medium;met;0.0001
+Medium;hcys;0.00001

@@ -1,5 +1,5 @@
-﻿cell_type;flux;mean;std_dev
+cell_type;flux;mean;std_dev
 BJ-TERT;PROT_OUT;416;83
-BJ-TERT;HCYS_OUT;64;6.4
+BJ-TERT;HCYS_OUT;115;11.5
 BJ-RAS;PROT_OUT;520;104
-BJ-RAS;HCYS_OUT;53;5.3
+BJ-RAS;HCYS_OUT;106;10.6
