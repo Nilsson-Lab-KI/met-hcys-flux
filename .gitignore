@@ -1,5 +1,8 @@
 .ipynb_checkpoints
-01_mid_data/*
-02_heavy_fractions/*
-03_met_flux_analysis/*
-04_hcys_flux_analysis/*
+01_mid_data
+02_heavy_fractions_concentrations
+03_met_flux_analysis
+04_hcys_flux_analysis
+plots
+
+__pycache__
