@@ -18,6 +18,7 @@ from simpleflux.fitting import ModelFit
 input_data_path = Path('00_input_data')
 derived_data_path = Path('02_heavy_fractions_concentrations')
 plots_path = Path('plots')
+tables_path = Path('tables')
 
 # make matplotlib use TrueType fonts for PDF export
 matplotlib.rcParams['pdf.fonttype'] = 42
